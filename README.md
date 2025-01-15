@@ -14,6 +14,13 @@ Feel free to use this repository and credit my name if you find it helpful for y
 
 ---
 
+## Team Members
+- Daniel Sitompul
+- Maria Denna
+- Gabriella Mendoza
+
+---
+
 ## Prerequisites
 
 ### Google Maps API Key
