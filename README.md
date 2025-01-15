@@ -10,7 +10,7 @@ Feel free to use this repository and credit my name if you find it helpful for y
 
 - **Customizable Sliders**: Adjust variables such as fuel consumption and emissions.
 - **Google Maps Integration**: Automatically calculates distances and travel times using the Google Maps API.
-- **Final Output Visualization**: See detailed results of your calculations.
+- **Final Output Visualization**: Comparison of Land Transportation vs Airtaxi in terms of: Total Distance, Travel Time, Price per Person, Battery Used, Fuel Used, Total Emission, and Emission per Person. See Further example Results Bellow!
 
 ---
 
