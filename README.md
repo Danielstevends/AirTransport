@@ -34,7 +34,10 @@ import googlemaps
 gmaps = googlemaps.Client(key=API_KEY)
 ```
 
-Final Results:
+---
+
+## Final Results:
+
 Sliders to adjust variables:
 
 <img width="716" alt="image" src="https://github.com/Danielstevends/AirTransport/assets/45707023/9ea261a2-4dae-447a-898c-ae914ff4de18">
