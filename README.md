@@ -1,4 +1,4 @@
-# AirTransport Calculator
+# AirTransport Comparison Calculator
 
 This repository calculates operational variables, comparing air taxi vehicles and ground transportation. It features sliders to customize variables such as fuel consumption, emissions, and more. As input, the application uses the Google Maps API to determine distances and travel times.
 
